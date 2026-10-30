@@ -1,5 +1,11 @@
 {
   "v": 1,
-  "updated": 0,
-  "keys": []
+  "updated": 1793365803322,
+  "keys": [
+    {
+      "id": "B-CB8A",
+      "h": "cb8a36071d5ee6b8fbaf092b9d76c44f3f965f6e6598d573d67b8559cbe0a39d",
+      "lvl": "bataljon"
+    }
+  ]
 }
